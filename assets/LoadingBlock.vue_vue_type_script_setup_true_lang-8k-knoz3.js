@@ -1,1 +1,0 @@
-import{d as t,u as s,c as n,t as a,e as c,o as r}from"./index-Jycm7zaL.js";const l={class:"rf-muted p-4 text-sm"},i=t({__name:"LoadingBlock",props:{label:{}},setup(e){const{t:o}=s();return(m,p)=>(r(),n("p",l,a(e.label??c(o)("common.loading")),1))}});export{i as _};
