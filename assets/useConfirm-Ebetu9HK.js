@@ -1,0 +1,1 @@
+import{l as a,ak as r}from"./index-D_4UrpYM.js";const o=a({open:!1,options:{message:""}});let n=null;function u(){return function(e){return n==null||n(!1),o.value={open:!0,options:typeof e=="string"?{message:e}:e},new Promise(t=>{n=t})}}function l(s){const e=n;n=null,o.value={...o.value,open:!1},e==null||e(s)}const i=r(o);export{i as c,l as r,u};
