@@ -1,1 +1,0 @@
-import{d as t,u as o,c,b as n,t as s,e as a,o as r}from"./index-D1l1d-CC.js";const i={class:"rf-stack"},m={class:"rf-muted"},p=t({__name:"AnnouncementsView",setup(u){const{t:e}=o();return(_,l)=>(r(),c("div",i,[n("h1",null,s(a(e)("admin.announcements")),1),n("p",m,s(a(e)("admin.announcementsUnavailable")),1)]))}});export{p as default};

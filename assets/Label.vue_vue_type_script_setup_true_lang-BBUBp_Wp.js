@@ -1,0 +1,1 @@
+import{d as e,c as r,K as t,o as s}from"./index-DDvUqIMC.js";const a=["for"],c=e({__name:"Label",props:{for:{}},setup(n){return(o,l)=>(s(),r("label",{for:o.$props.for,class:"block text-xs font-extrabold text-rf-navy"},[t(o.$slots,"default")],8,a))}});export{c as _};
